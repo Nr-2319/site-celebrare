@@ -23,6 +23,10 @@ a:focus {
 
 /* NAVIGATION BAR */
 
+.navbar.navbar-expand-lg {
+    margin: 0 0 1.5em;
+}
+
 .navbar-brand {
     margin-left: 2em;
 }
